@@ -27,8 +27,8 @@ jobs:
       OEREBKRM_THEMES_FILE_NAME: OeREBKRM_V2_0_Themen.xml
       OEREBKRM_LOGOS_FILE_NAME: OeREBKRM_V2_0_Logos.xml
       OEREBKRM_TEXTS_FILE_NAME: OeREBKRM_V2_0_Texte.xml
-      PLZO_DOWNLOAD_URL: https://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz
-      PLZO_FILE_NAME: PLZO_INTERLIS_LV95
+      PLZO_DOWNLOAD_URL: https://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz/ortschaftenverzeichnis_plz
+      PLZO_FILE_NAME: ortschaftenverzeichnis_plz_2056.xtf
       PLZO_FILE_EXTENSION: zip
 
       REGISTRY_URL: ghcr.io/${{ github.repository }}
