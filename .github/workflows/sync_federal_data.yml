@@ -100,16 +100,16 @@ jobs:
         git add $OEREBKRM_TEXTS_FILE_NAME
         ./scripts/commit_push_if_dirty.sh
 
-    - name: Download and unzip PLZO data
-      run: |
-        curl -X GET -o ./$PLZO_FILE_NAME.$PLZO_FILE_EXTENSION $PLZO_DOWNLOAD_URL/$PLZO_FILE_NAME.$PLZO_FILE_EXTENSION
-        ls -ls ./$PLZO_FILE_NAME.$PLZO_FILE_EXTENSION
-    - name: Handle changes of PLZO data
-      env:
-        UPSTREAM_URL: $PLZO_DOWNLOAD_URL/$PLZO_FILE_NAME.$PLZO_FILE_EXTENSION
-      run: |
-        git add $PLZO_FILE_NAME.$PLZO_FILE_EXTENSION
-        ./scripts/commit_push_if_dirty.sh
+    # - name: Download and unzip PLZO data
+    #   run: |
+    #     curl -X GET -o ./$PLZO_FILE_NAME.$PLZO_FILE_EXTENSION $PLZO_DOWNLOAD_URL/$PLZO_FILE_NAME.$PLZO_FILE_EXTENSION
+    #     ls -ls ./$PLZO_FILE_NAME.$PLZO_FILE_EXTENSION
+    # - name: Handle changes of PLZO data
+    #   env:
+    #     UPSTREAM_URL: $PLZO_DOWNLOAD_URL/$PLZO_FILE_NAME.$PLZO_FILE_EXTENSION
+    #   run: |
+    #     git add $PLZO_FILE_NAME.$PLZO_FILE_EXTENSION
+    #     ./scripts/commit_push_if_dirty.sh
 
     - name: Download and unzip Federal Theme data and handle diff check
       env:
