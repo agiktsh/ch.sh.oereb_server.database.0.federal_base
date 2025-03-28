@@ -17,6 +17,6 @@ for f in ./*.xtf; do
     --disableValidation \
     --models "$model" \
     --verbose \
-    --modeldir ./ilimodels \
+    --modeldir scripts/ili2pg/ilimodels \
     "$f"
 done
