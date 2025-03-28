@@ -1,7 +1,7 @@
 #!/bin/bash
 set -Eeuo pipefail
 
-ili2pg_executable=$(find /tmp/ili2pg -iname 'ili2pg*.jar')
+ili2pg_executable=$(find ./ -iname 'ili2pg*.jar')
 model="PLZOCH1LV95D"
 dataset="PLZO_INTERLIS_LV95"
 FILE_NAME="PLZO_ITF_LV95"

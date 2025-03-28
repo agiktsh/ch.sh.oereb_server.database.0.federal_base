@@ -1,7 +1,7 @@
 #!/bin/bash
 set -Eeuo pipefail
 
-ili2pg_executable=$(find /tmp/ili2pg -iname 'ili2pg*.jar')
+ili2pg_executable=$(find ./ -iname 'ili2pg*.jar')
 model="OeREBKRM_V2_0;OeREBKRMkvs_V2_0"
 
 for f in ./*.xml; do
@@ -18,6 +18,5 @@ for f in ./*.xml; do
     --disableValidation \
     --importBid \
     --importTid \
-    --modeldir http://models.interlis.ch/ \
     "$f"
 done

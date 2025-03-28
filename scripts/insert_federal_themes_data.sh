@@ -1,7 +1,7 @@
 #!/bin/bash
 set -Eeuo pipefail
 
-ili2pg_executable=$(find /tmp/ili2pg -iname 'ili2pg*.jar')
+ili2pg_executable=$(find ./ -iname 'ili2pg*.jar')
 model="OeREBKRMtrsfr_V2_0"
 
 for f in ./*.xtf; do
@@ -17,6 +17,5 @@ for f in ./*.xtf; do
     --disableValidation \
     --models "$model" \
     --verbose \
-    --modeldir http://models.interlis.ch/ \
     "$f"
 done
