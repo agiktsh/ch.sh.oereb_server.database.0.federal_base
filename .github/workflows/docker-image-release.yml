@@ -34,9 +34,6 @@ jobs:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-      - name: Install ili2db
-        run: |
-          ./scripts/install_ili2pg.sh
 
       - name: Start database structure
         run: |
