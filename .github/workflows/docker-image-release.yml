@@ -24,7 +24,7 @@ jobs:
       PG_READ_PWD: ${{ secrets.PG_READ_PWD }}
       PG_WRITE_PWD: ${{ secrets.PG_WRITE_PWD }}
       PG_GRETL_PWD: ${{ secrets.PG_GRETL_PWD }}
-      ILI2PG_VERSION: 4.9.1
+      ILI2PG_VERSION: 4.11.1
 
     steps:
       - uses: actions/checkout@v3
