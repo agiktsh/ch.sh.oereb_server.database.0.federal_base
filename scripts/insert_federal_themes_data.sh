@@ -17,5 +17,6 @@ for f in ./*.xtf; do
     --disableValidation \
     --models "$model" \
     --verbose \
+    --modeldir ./ilimodels \
     "$f"
 done

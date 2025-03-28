@@ -18,5 +18,6 @@ for f in ./*.xml; do
     --disableValidation \
     --importBid \
     --importTid \
+    --modeldir ./ilimodels \
     "$f"
 done
