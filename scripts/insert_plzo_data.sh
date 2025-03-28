@@ -20,5 +20,5 @@ java -jar "$ili2pg_executable" \
   --disableValidation \
   --models "$model" \
   --verbose \
-  --modeldir ./ilimodels \
+  --modeldir scripts/ili2pg/ilimodels \
   ./"$dataset"/"$FILE_NAME".itf
