@@ -18,6 +18,5 @@ for f in ./*.xml; do
     --disableValidation \
     --importBid \
     --importTid \
-    --modeldir http://models.interlis.ch/ \
     "$f"
 done

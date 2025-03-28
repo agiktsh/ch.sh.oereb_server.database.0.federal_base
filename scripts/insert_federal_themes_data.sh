@@ -17,6 +17,5 @@ for f in ./*.xtf; do
     --disableValidation \
     --models "$model" \
     --verbose \
-    --modeldir http://models.interlis.ch/ \
     "$f"
 done
