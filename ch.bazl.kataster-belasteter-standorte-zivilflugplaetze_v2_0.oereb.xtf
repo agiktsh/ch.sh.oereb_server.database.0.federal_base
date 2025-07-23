@@ -8360,213 +8360,6 @@
         <publiziertAb>2004-05-24</publiziertAb>
         <Eigentumsbeschraenkung REF="eb3265"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3134">
-        <Punkt>
-          <COORD>
-            <C1>2685080.961</C1>
-            <C2>1255679.829</C2>
-          </COORD>
-        </Punkt>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2004-06-07</publiziertAb>
-        <Eigentumsbeschraenkung REF="eb3134"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3128">
-        <Punkt>
-          <COORD>
-            <C1>2685277.960</C1>
-            <C2>1255668.826</C2>
-          </COORD>
-        </Punkt>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2004-06-07</publiziertAb>
-        <Eigentumsbeschraenkung REF="eb3128"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3146">
-        <Punkt>
-          <COORD>
-            <C1>2684276.981</C1>
-            <C2>1257061.860</C2>
-          </COORD>
-        </Punkt>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2013-10-23</publiziertAb>
-        <Eigentumsbeschraenkung REF="eb3146"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3235">
-        <Punkt>
-          <COORD>
-            <C1>2496999.324</C1>
-            <C2>1120912.165</C2>
-          </COORD>
-        </Punkt>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2004-05-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eb3235"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3236">
-        <Punkt>
-          <COORD>
-            <C1>2497054.327</C1>
-            <C2>1121042.167</C2>
-          </COORD>
-        </Punkt>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2004-05-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eb3236"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3237">
-        <Punkt>
-          <COORD>
-            <C1>2497229.337</C1>
-            <C2>1121057.169</C2>
-          </COORD>
-        </Punkt>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2004-05-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eb3237"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3240">
-        <Punkt>
-          <COORD>
-            <C1>2683000.986</C1>
-            <C2>1257129.880</C2>
-          </COORD>
-        </Punkt>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2004-06-07</publiziertAb>
-        <Eigentumsbeschraenkung REF="eb3240"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3500">
-        <Flaeche>
-          <SURFACE>
-            <BOUNDARY>
-              <POLYLINE>
-                <COORD>
-                  <C1>2684725.847</C1>
-                  <C2>1255924.879</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684716.759</C1>
-                  <C2>1255944.134</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684730.619</C1>
-                  <C2>1255951.670</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684719.279</C1>
-                  <C2>1255977.484</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684700.014</C1>
-                  <C2>1255974.425</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684688.830</C1>
-                  <C2>1255997.116</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684677.691</C1>
-                  <C2>1256005.386</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684669.573</C1>
-                  <C2>1255995.560</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684644.549</C1>
-                  <C2>1255972.977</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684644.305</C1>
-                  <C2>1255972.733</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684640.643</C1>
-                  <C2>1255968.826</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684631.365</C1>
-                  <C2>1255956.131</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684628.191</C1>
-                  <C2>1255951.004</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684627.947</C1>
-                  <C2>1255945.877</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684628.924</C1>
-                  <C2>1255941.971</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684630.388</C1>
-                  <C2>1255940.017</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684638.201</C1>
-                  <C2>1255932.693</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684655.534</C1>
-                  <C2>1255920.485</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684667.986</C1>
-                  <C2>1255913.161</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684686.296</C1>
-                  <C2>1255906.813</C2>
-                </COORD>
-                <COORD>
-                  <C1>2684725.847</C1>
-                  <C2>1255924.879</C2>
-                </COORD>
-              </POLYLINE>
-            </BOUNDARY>
-          </SURFACE>
-        </Flaeche>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2004-06-07</publiziertAb>
-        <Eigentumsbeschraenkung REF="eb3500"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3276">
-        <Flaeche>
-          <SURFACE>
-            <BOUNDARY>
-              <POLYLINE>
-                <COORD>
-                  <C1>2683854.564</C1>
-                  <C2>1255485.246</C2>
-                </COORD>
-                <COORD>
-                  <C1>2683864.264</C1>
-                  <C2>1255465.145</C2>
-                </COORD>
-                <COORD>
-                  <C1>2683883.764</C1>
-                  <C2>1255474.545</C2>
-                </COORD>
-                <COORD>
-                  <C1>2683873.964</C1>
-                  <C2>1255494.446</C2>
-                </COORD>
-                <COORD>
-                  <C1>2683854.564</C1>
-                  <C2>1255485.246</C2>
-                </COORD>
-              </POLYLINE>
-            </BOUNDARY>
-          </SURFACE>
-        </Flaeche>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2004-06-07</publiziertAb>
-        <Eigentumsbeschraenkung REF="eb3276"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3544">
         <Flaeche>
           <SURFACE>
@@ -8743,6 +8536,246 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2021-10-05</publiziertAb>
         <Eigentumsbeschraenkung REF="eb3544"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3500">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2684725.847</C1>
+                  <C2>1255924.879</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684716.759</C1>
+                  <C2>1255944.134</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684730.619</C1>
+                  <C2>1255951.670</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684719.279</C1>
+                  <C2>1255977.484</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684700.014</C1>
+                  <C2>1255974.425</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684688.830</C1>
+                  <C2>1255997.116</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684677.691</C1>
+                  <C2>1256005.386</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684669.573</C1>
+                  <C2>1255995.560</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684644.549</C1>
+                  <C2>1255972.977</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684644.305</C1>
+                  <C2>1255972.733</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684640.643</C1>
+                  <C2>1255968.826</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684631.365</C1>
+                  <C2>1255956.131</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684628.191</C1>
+                  <C2>1255951.004</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684627.947</C1>
+                  <C2>1255945.877</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684628.924</C1>
+                  <C2>1255941.971</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684630.388</C1>
+                  <C2>1255940.017</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684638.201</C1>
+                  <C2>1255932.693</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684655.534</C1>
+                  <C2>1255920.485</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684667.986</C1>
+                  <C2>1255913.161</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684686.296</C1>
+                  <C2>1255906.813</C2>
+                </COORD>
+                <COORD>
+                  <C1>2684725.847</C1>
+                  <C2>1255924.879</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2004-06-07</publiziertAb>
+        <Eigentumsbeschraenkung REF="eb3500"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3134">
+        <Punkt>
+          <COORD>
+            <C1>2685080.961</C1>
+            <C2>1255679.829</C2>
+          </COORD>
+        </Punkt>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2004-06-07</publiziertAb>
+        <Eigentumsbeschraenkung REF="eb3134"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3128">
+        <Punkt>
+          <COORD>
+            <C1>2685277.960</C1>
+            <C2>1255668.826</C2>
+          </COORD>
+        </Punkt>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2004-06-07</publiziertAb>
+        <Eigentumsbeschraenkung REF="eb3128"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3146">
+        <Punkt>
+          <COORD>
+            <C1>2684276.981</C1>
+            <C2>1257061.860</C2>
+          </COORD>
+        </Punkt>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2013-10-23</publiziertAb>
+        <Eigentumsbeschraenkung REF="eb3146"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3235">
+        <Punkt>
+          <COORD>
+            <C1>2496999.324</C1>
+            <C2>1120912.165</C2>
+          </COORD>
+        </Punkt>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2004-05-25</publiziertAb>
+        <Eigentumsbeschraenkung REF="eb3235"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3236">
+        <Punkt>
+          <COORD>
+            <C1>2497054.327</C1>
+            <C2>1121042.167</C2>
+          </COORD>
+        </Punkt>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2004-05-25</publiziertAb>
+        <Eigentumsbeschraenkung REF="eb3236"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3237">
+        <Punkt>
+          <COORD>
+            <C1>2497229.337</C1>
+            <C2>1121057.169</C2>
+          </COORD>
+        </Punkt>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2004-05-25</publiziertAb>
+        <Eigentumsbeschraenkung REF="eb3237"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3240">
+        <Punkt>
+          <COORD>
+            <C1>2683000.986</C1>
+            <C2>1257129.880</C2>
+          </COORD>
+        </Punkt>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2004-06-07</publiziertAb>
+        <Eigentumsbeschraenkung REF="eb3240"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3276">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2683854.564</C1>
+                  <C2>1255485.246</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683864.264</C1>
+                  <C2>1255465.145</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683883.764</C1>
+                  <C2>1255474.545</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683873.964</C1>
+                  <C2>1255494.446</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683854.564</C1>
+                  <C2>1255485.246</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2004-06-07</publiziertAb>
+        <Eigentumsbeschraenkung REF="eb3276"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3543">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2787170.560</C1>
+                  <C2>1156193.706</C2>
+                </COORD>
+                <COORD>
+                  <C1>2787167.813</C1>
+                  <C2>1156188.243</C2>
+                </COORD>
+                <COORD>
+                  <C1>2787175.168</C1>
+                  <C2>1156184.642</C2>
+                </COORD>
+                <COORD>
+                  <C1>2787177.823</C1>
+                  <C2>1156190.044</C2>
+                </COORD>
+                <COORD>
+                  <C1>2787170.560</C1>
+                  <C2>1156193.706</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2021-10-05</publiziertAb>
+        <Eigentumsbeschraenkung REF="eb3543"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3281">
         <Flaeche>
@@ -9220,39 +9253,6 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2004-07-06</publiziertAb>
         <Eigentumsbeschraenkung REF="eb3368"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3543">
-        <Flaeche>
-          <SURFACE>
-            <BOUNDARY>
-              <POLYLINE>
-                <COORD>
-                  <C1>2787170.560</C1>
-                  <C2>1156193.706</C2>
-                </COORD>
-                <COORD>
-                  <C1>2787167.813</C1>
-                  <C2>1156188.243</C2>
-                </COORD>
-                <COORD>
-                  <C1>2787175.168</C1>
-                  <C2>1156184.642</C2>
-                </COORD>
-                <COORD>
-                  <C1>2787177.823</C1>
-                  <C2>1156190.044</C2>
-                </COORD>
-                <COORD>
-                  <C1>2787170.560</C1>
-                  <C2>1156193.706</C2>
-                </COORD>
-              </POLYLINE>
-            </BOUNDARY>
-          </SURFACE>
-        </Flaeche>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2021-10-05</publiziertAb>
-        <Eigentumsbeschraenkung REF="eb3543"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geom3377">
         <Flaeche>
